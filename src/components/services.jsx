@@ -7,8 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          A comprehensive range of mobile app development services designed to transform your ideas into powerful digital solutions. Our expertise spans across various platforms and technologies, ensuring that your business gets the best tools to succeed in today’s competitive market.
           </p>
         </div>
         <div className="row">
